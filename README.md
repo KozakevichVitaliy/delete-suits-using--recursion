@@ -1,5 +1,5 @@
-# delete-suits-using-loops
+# delete-suits-using--recursion
 
-bad JS realization(never do that like it)
+Good JS realization
 
 click on any cell in table and you'll delete a joint group of suits elements
